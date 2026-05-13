@@ -1,59 +1,57 @@
-# Chantiqia Rhadempta
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&text=Hello,%20I'm%20Chantiqia!%20&fontSize=40&animation=fadeIn&fontColor=ffffff)
 
-**Computer Science Student** · Cybersecurity Enthusiast · Cryptography & Post-Quantum Security
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=500&lines=Cybersecurity+Enthusiast+🔐;Cryptography+%26+Post-Quantum+Security;Web+Security;)](https://git.io/typing-svg)
 
 ---
 
 ## About Me
 
-I am a computer science student with a growing focus on cybersecurity, particularly in the areas of cryptography and post-quantum security. I enjoy exploring how emerging threats challenge classical security assumptions and how modern cryptographic standards evolve to address them.
+Hi everyone! I'm **Chantiqia**, a computer science student who's really into cybersecurity, especially the cryptography and web side of things. Post-quantum security is what I've been studying lately! 
 
-While my professional experience in the field is still developing, I approach each project with rigor and curiosity — from analyzing NIST post-quantum digital signature standards to experimenting with network security tools.
+I'm still early in my journey, but I love diving deep into how things work. When I'm not studying, I'm usually going down on CTF challenges or contest.
 
 ---
 
-## Areas of Interest
+## What I'm Into 🔍
 
 - 🔐 Cryptography & Post-Quantum Security
-- 🛡️ Penetration Testing & Vulnerability Analysis
-- 🌐 Network Security & Protocol Analysis
-- 🧩 Capture The Flag (CTF) Challenges
-
+- 🌐 Web Security
+- 🚩 CTF Challenges
+- 🔎 Cybersecurity Research
 ---
 
 ## Tools & Technologies
 
-### Languages
-<!-- Replace [ICON] with actual badge/icon links from shields.io or skill-icons -->
-[ICON: Python] [ICON: C++] [ICON: Java] [ICON: HTML] [ICON: CSS] [ICON: PHP]
+### Languages & Tools
+![Skills](https://skillicons.dev/icons?i=python,cpp,java,html,css,php,mysql,latex&animate=true)
 
-### Security & Networking
-[ICON: Kali Linux] [ICON: Wireshark] [ICON: OpenSSL] [ICON: Nmap] [ICON: Burp Suite] [ICON: Metasploit]
+### Security & OS
+![Security Tools](https://skillicons.dev/icons?i=kali&animate=true)
 
----
-
-## Featured Project
-
-### [Post-Quantum TLS Research — OpenSSL & OQS Provider](https://github.com/beaverSec/Post-Quantum-TLS-Research-Setup-OpenSSL-Open-Quantum-Safe-)
-
-Performance analysis of NIST Post-Quantum Digital Signature Standards (ML-DSA vs. SLH-DSA) in TLS 1.3 using OpenSSL and OQS Provider. This research examines the practical performance implications of transitioning to post-quantum cryptographic algorithms in real-world TLS implementations.
+> I Also work with: Wireshark · Nmap · OpenSSL
 
 ---
 
-## GitHub Stats
+## Featured Project 🚀
 
-<!-- GitHub Stats Card -->
+### 🔒 [Post-Quantum TLS Research — OpenSSL & OQS Provider](https://github.com/beaverSec/Post-Quantum-TLS-Research-Setup-OpenSSL-Open-Quantum-Safe-)
+
+Dug into how NIST's post-quantum signature standards (ML-DSA vs. SLH-DSA) actually perform in real TLS 1.3 connections using OpenSSL and the OQS Provider. Basically asking: *are we ready to ditch classical crypto?* 🤔
+
+---
+
+## GitHub Stats 📊
+
 ![Chantiqia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beaverSec&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
 
-<!-- Most Used Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beaverSec&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
-## Connect
+## Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chantiqia%20Rhadempta-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chantiqia%20Rhadempta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chantiqia-rhadempta-ayu-p-792526224/)
 
 ---
 
-*"Security is not a product, but a process."* — Bruce Schneier
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
