@@ -34,7 +34,7 @@ I'm still early in my journey, but I love diving deep into how things work. When
 
 ## Featured Project
 
-### [Post-Quantum TLS Research — OpenSSL & OQS Provider](https://github.com/beaverSec/Post-Quantum-TLS-Research-Setup-OpenSSL-Open-Quantum-Safe-)
+### [Post-Quantum TLS Research — OpenSSL & OQS Provider](https://github.com/qiarhadempta/Post-Quantum-TLS-Research-Setup-OpenSSL-Open-Quantum-Safe-)
 
 I dug into how NIST's post-quantum signature standards (ML-DSA vs. SLH-DSA) actually perform in real TLS 1.3 connections using OpenSSL and the OQS Provider, under degraded network conditions.
 
@@ -42,9 +42,9 @@ I dug into how NIST's post-quantum signature standards (ML-DSA vs. SLH-DSA) actu
 
 ## GitHub Stats
 
-![Chantiqia's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=beaverSec&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+![Chantiqia's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=qiarhademptaSec&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=beaverSec&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qiarhademptaSec&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
