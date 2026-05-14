@@ -23,7 +23,7 @@ I'm still early in my journey, but I love diving deep into how things work. When
 ## Tools & Technologies
 
 ### Languages & Tools
-![Skills](https://skillicons.dev/icons?i=python,cpp,java,html,css,php,mysql,latex&animate=true)
+![Skills](https://skillicons.dev/icons?i=python,cpp,java,html,css,php,mysql,latex,figma&animate=true)
 
 ### Security & OS
 ![Security Tools](https://skillicons.dev/icons?i=kali&animate=true)
@@ -42,9 +42,9 @@ Dug into how NIST's post-quantum signature standards (ML-DSA vs. SLH-DSA) actual
 
 ## GitHub Stats 📊
 
-![Chantiqia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beaverSec&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+![Chantiqia's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=beaverSec&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beaverSec&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=beaverSec&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
