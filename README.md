@@ -42,9 +42,9 @@ I dug into how NIST's post-quantum signature standards (ML-DSA vs. SLH-DSA) actu
 
 ## GitHub Stats
 
-![Chantiqia's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=qiarhademptaSec&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+![Chantiqia's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=qiarhadempta&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qiarhademptaSec&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qiarhadempta&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
