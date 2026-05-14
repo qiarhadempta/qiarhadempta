@@ -12,7 +12,7 @@ I'm still early in my journey, but I love diving deep into how things work. When
 
 ---
 
-## What I'm Into 🔍
+## What I'm Into
 
 - 🔐 Cryptography & Post-Quantum Security
 - 🌐 Web Security
@@ -26,21 +26,21 @@ I'm still early in my journey, but I love diving deep into how things work. When
 ![Skills](https://skillicons.dev/icons?i=python,cpp,java,html,css,php,mysql,latex,figma&animate=true)
 
 ### Security & OS
-![Security Tools](https://skillicons.dev/icons?i=kali&animate=true)
+![Security Tools](https://skillicons.dev/icons?i=kali,ubuntu,linux&animate=true)
 
 > I Also work with: Wireshark · Nmap · OpenSSL
 
 ---
 
-## Featured Project 🚀
+## Featured Project
 
-### 🔒 [Post-Quantum TLS Research — OpenSSL & OQS Provider](https://github.com/beaverSec/Post-Quantum-TLS-Research-Setup-OpenSSL-Open-Quantum-Safe-)
+### [Post-Quantum TLS Research — OpenSSL & OQS Provider](https://github.com/beaverSec/Post-Quantum-TLS-Research-Setup-OpenSSL-Open-Quantum-Safe-)
 
-Dug into how NIST's post-quantum signature standards (ML-DSA vs. SLH-DSA) actually perform in real TLS 1.3 connections using OpenSSL and the OQS Provider. Basically asking: *are we ready to ditch classical crypto?* 🤔
+I dug into how NIST's post-quantum signature standards (ML-DSA vs. SLH-DSA) actually perform in real TLS 1.3 connections using OpenSSL and the OQS Provider, under degraded network conditions.
 
 ---
 
-## GitHub Stats 📊
+## GitHub Stats
 
 ![Chantiqia's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=beaverSec&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
 
