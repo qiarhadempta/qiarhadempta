@@ -34,7 +34,7 @@ I'm still early in my journey, but I love diving deep into how things work. When
 > OpenSSL · Wireshark · Nmap · Burpsuite · SQLmap · Ghidra
 
 ### Operating Systems
-![OS](https://skillicons.dev/icons?i=kali,ubuntu,linux&animate=true)
+![OS](https://skillicons.dev/icons?i=kali,ubuntu,windows&animate=true)
 
 ### Design
 ![Design](https://skillicons.dev/icons?i=figma&animate=true)
@@ -59,7 +59,7 @@ I dug into how NIST's post-quantum signature standards (ML-DSA vs. SLH-DSA) actu
 ## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chantiqia%20Rhadempta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chantiqia-rhadempta-ayu-p-792526224/)
-[![Instagram](https://img.shields.io/badge/Instagram-YOUR__IG__HERE-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_IG_HERE)
+[![Instagram](https://img.shields.io/badge/Instagram-cntqiaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/YOUR_IG_HERE](https://www.instagram.com/cntqiaa?igsh=dzN0aWtyOGk3cnN6))
 [![Email](https://img.shields.io/badge/Email-chantiqia.rhadempta%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chantiqia.rhadempta@gmail.com)
 
 ---
