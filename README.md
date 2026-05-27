@@ -55,7 +55,13 @@ I dug into how NIST's post-quantum signature standards (ML-DSA vs. SLH-DSA) actu
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qiarhadempta&layout=compact&theme=github_dark&hide_border=true)
 
 ---
+## Github Streak Stats
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=qiarhadempta&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=qiarhadempta&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 ## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chantiqia%20Rhadempta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chantiqia-rhadempta-ayu-p-792526224/)
