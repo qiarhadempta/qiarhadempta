@@ -1,15 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&text=Hello,%20I'm%20Chantiqia!%20&fontSize=40&animation=fadeIn&fontColor=ffffff)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=500&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Cryptography+%26+Post-Quantum+Security;Web+Security;)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:c9b1ff,50:a78bfa,100:7c5cbf&height=200&text=Hello,%20I'm%20Chantiqia!%20&fontSize=40&animation=fadeIn&fontColor=ffffff)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C9B1FF&width=500&lines=Cybersecurity+Enthusiast;Cryptography+%26+Post-Quantum+Security;Web+Security)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=qiarhadempta&color=58A6FF&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=qiarhadempta&color=C9B1FF&style=flat-square)
 
 ---
 
 ## About Me
 
-Hi everyone! I'm Chantiqia, a computer science student who's into cybersecurity, especially the cryptography and web side of things. Post-quantum security is what I've been studying lately!
+Hi everyone! I'm Chantiqia, a computer science student into cybersecurity — especially cryptography and web security. Post-quantum security is what I've been studying lately.
 
-I'm still early in my journey, but I love diving deep into how things work. When I'm not studying, I'm usually going down on CTF challenges or contest (and you can find some of my write-ups in my repos!)
+I'm still early in my journey, but I love diving deep into how things work. When I'm not studying, I'm usually working through CTF challenges and contests — you can find some of my write-ups in my repos.
 
 ---
 
@@ -45,18 +45,16 @@ I'm still early in my journey, but I love diving deep into how things work. When
 
 ### [Post-Quantum TLS Research — OpenSSL & OQS Provider](https://github.com/qiarhadempta/Post-Quantum-TLS-Research-Setup-OpenSSL-Open-Quantum-Safe-)
 
-I dug into how NIST's post-quantum signature standards (ML-DSA vs. SLH-DSA) actually perform in real TLS 1.3 connections using OpenSSL and the OQS Provider, under degraded network conditions.
+Performance analysis of NIST's post-quantum signature standards (ML-DSA vs. SLH-DSA) in real TLS 1.3 connections using OpenSSL and the OQS Provider, under degraded network conditions.
 
 ---
 
 ## GitHub Stats
 
-## GitHub Stats
-
-![Chantiqia's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=qiarhadempta&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF)
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qiarhadempta&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9)
-[![GitHub Streak](https://streak-stats.demolab.com?user=qiarhadempta&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=qiarhadempta&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Chantiqia's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=qiarhadempta&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=C9B1FF&text_color=c9d1d9&icon_color=C9B1FF)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qiarhadempta&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=C9B1FF&text_color=c9d1d9)
+[![GitHub Streak](https://streak-stats.demolab.com?user=qiarhadempta&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=C9B1FF&ring=C9B1FF&fire=C9B1FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=C9B1FF&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=qiarhadempta&theme=github-compact&hide_border=true&bg_color=0d1117&color=C9B1FF&line=C9B1FF&point=c9d1d9)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -68,4 +66,4 @@ I dug into how NIST's post-quantum signature standards (ML-DSA vs. SLH-DSA) actu
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7c5cbf,50:a78bfa,100:c9b1ff&height=100&section=footer)
