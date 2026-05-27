@@ -1,12 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&text=Hello,%20I'm%20Chantiqia!%20&fontSize=40&animation=fadeIn&fontColor=ffffff)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=500&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Cryptography+%26+Post-Quantum+Security;Web+Security;)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=500&lines=Cybersecurity+Enthusiast+🔐;Cryptography+%26+Post-Quantum+Security;Web+Security;)](https://git.io/typing-svg)
+![Profile Views](https://komarev.com/ghpvc/?username=qiarhadempta&color=58A6FF&style=flat-square)
 
 ---
 
 ## About Me
 
-Hi everyone! I'm Chantiqia, a computer science student who's into cybersecurity, especially the cryptography and web side of things. Post-quantum security is what I've been studying lately! 
+Hi everyone! I'm Chantiqia, a computer science student who's into cybersecurity, especially the cryptography and web side of things. Post-quantum security is what I've been studying lately!
 
 I'm still early in my journey, but I love diving deep into how things work. When I'm not studying, I'm usually going down on CTF challenges or contest (and you can find some of my write-ups in my repos!)
 
@@ -18,17 +19,25 @@ I'm still early in my journey, but I love diving deep into how things work. When
 - 🌐 Web Security
 - 🚩 CTF Challenges
 - 🔎 Cybersecurity Research
+
 ---
 
 ## Tools & Technologies
 
-### Languages & Tools
-![Skills](https://skillicons.dev/icons?i=python,cpp,java,html,css,php,mysql,latex,figma&animate=true)
+### Languages
+![Languages](https://skillicons.dev/icons?i=python,cpp,java,html,css,php,latex&animate=true)
 
-### Security & OS
-![Security Tools](https://skillicons.dev/icons?i=kali,ubuntu,linux&animate=true)
+### Databases
+![Databases](https://skillicons.dev/icons?i=mysql,sqlite&animate=true)
 
-> I Also work with: Wireshark · Nmap · OpenSSL
+### Security Tools
+> OpenSSL · Wireshark · Nmap · Burpsuite · SQLmap · Ghidra
+
+### Operating Systems
+![OS](https://skillicons.dev/icons?i=kali,ubuntu,linux&animate=true)
+
+### Design
+![Design](https://skillicons.dev/icons?i=figma&animate=true)
 
 ---
 
@@ -43,7 +52,6 @@ I dug into how NIST's post-quantum signature standards (ML-DSA vs. SLH-DSA) actu
 ## GitHub Stats
 
 ![Chantiqia's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=qiarhadempta&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
-
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qiarhadempta&layout=compact&theme=github_dark&hide_border=true)
 
 ---
@@ -51,6 +59,8 @@ I dug into how NIST's post-quantum signature standards (ML-DSA vs. SLH-DSA) actu
 ## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chantiqia%20Rhadempta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chantiqia-rhadempta-ayu-p-792526224/)
+[![Instagram](https://img.shields.io/badge/Instagram-YOUR__IG__HERE-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_IG_HERE)
+[![Email](https://img.shields.io/badge/Email-chantiqia.rhadempta%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chantiqia.rhadempta@gmail.com)
 
 ---
 
