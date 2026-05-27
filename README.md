@@ -6,9 +6,9 @@
 
 ## About Me
 
-Hi everyone! I'm **Chantiqia**, a computer science student who's really into cybersecurity, especially the cryptography and web side of things. Post-quantum security is what I've been studying lately! 
+Hi everyone! I'm Chantiqia, a computer science student who's into cybersecurity, especially the cryptography and web side of things. Post-quantum security is what I've been studying lately! 
 
-I'm still early in my journey, but I love diving deep into how things work. When I'm not studying, I'm usually going down on CTF challenges or contest.
+I'm still early in my journey, but I love diving deep into how things work. When I'm not studying, I'm usually going down on CTF challenges or contest (and you can find some of my write-ups in my repos!)
 
 ---
 
