@@ -51,10 +51,12 @@ I dug into how NIST's post-quantum signature standards (ML-DSA vs. SLH-DSA) actu
 
 ## GitHub Stats
 
-![Chantiqia's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=qiarhadempta&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qiarhadempta&layout=compact&theme=github_dark&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=qiarhadempta&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=qiarhadempta&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## GitHub Stats
+
+![Chantiqia's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=qiarhadempta&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qiarhadempta&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9)
+[![GitHub Streak](https://streak-stats.demolab.com?user=qiarhadempta&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=qiarhadempta&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
