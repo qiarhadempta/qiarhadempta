@@ -47,6 +47,9 @@ I'm still early in my journey, but I love diving deep into how things work. When
 
 Performance analysis of NIST's post-quantum signature standards (ML-DSA vs. SLH-DSA) in real TLS 1.3 connections using OpenSSL and the OQS Provider, under degraded network conditions.
 
+### CryptoHack
+<!-- CRYPTOHACK_START -->
+<!-- CRYPTOHACK_END -->
 ---
 
 ## GitHub Stats
