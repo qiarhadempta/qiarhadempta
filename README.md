@@ -41,13 +41,16 @@ I'm still early in my journey, but I love diving deep into how things work. When
 
 ---
 
-## Featured Project
+## Research
 
 ### [Post-Quantum TLS Research — OpenSSL & OQS Provider](https://github.com/qiarhadempta/Post-Quantum-TLS-Research-Setup-OpenSSL-Open-Quantum-Safe-)
 
 Performance analysis of NIST's post-quantum signature standards (ML-DSA vs. SLH-DSA) in real TLS 1.3 connections using OpenSSL and the OQS Provider, under degraded network conditions.
 
-### CryptoHack
+---
+
+## CryptoHack
+
 <!-- CRYPTOHACK_START -->
 ![Score](https://img.shields.io/badge/Score-200pts-C9B1FF?style=flat-square)
 ![Rank](https://img.shields.io/badge/Rank-%2330659-a78bfa?style=flat-square)
@@ -56,6 +59,54 @@ Performance analysis of NIST's post-quantum signature standards (ML-DSA vs. SLH-
 
 > Updated: 12 Jun 2026, 14:32 UTC
 <!-- CRYPTOHACK_END -->
+
+---
+
+## Repositories
+
+<details>
+<summary>Research</summary>
+
+| Repo | Description |
+|------|-------------|
+| [Post-Quantum-TLS-Research](https://github.com/qiarhadempta/Post-Quantum-TLS-Research-Setup-OpenSSL-Open-Quantum-Safe-) | Performance analysis of ML-DSA vs. SLH-DSA in TLS 1.3 under degraded network conditions |
+
+</details>
+
+<details>
+<summary>CTF Write-ups</summary>
+
+| Repo | Description |
+|------|-------------|
+| [PicoCTF](https://github.com/qiarhadempta/PicoCTF) | PicoCTF challenge write-ups |
+| [CryptoHack-Write-Up](https://github.com/qiarhadempta/CryptoHack-Write-Up) | CryptoHack challenge write-ups |
+| [ZeroDay-Heist-2026-Online](https://github.com/qiarhadempta/ZeroDay-Heist-2026-Online) | ZeroDay Heist 2026 Online CTF write-up |
+| [HackThisSite](https://github.com/qiarhadempta/HackThisSite) | HackThisSite write-ups |
+| [Reverse-Engineering-Write-Up](https://github.com/qiarhadempta/Reverse-Engineering-Write-Up) | Reverse engineering challenge write-ups |
+
+</details>
+
+<details>
+<summary>Projects</summary>
+
+| Repo | Description |
+|------|-------------|
+| [Sistem-Prioritas-Tugas](https://github.com/qiarhadempta/Sistem-Prioritas-Tugas) | Decision support system using SAW method |
+| [Bookstore-PoS](https://github.com/qiarhadempta/Bookstore-PoS) | Point-of-sale system for a bookstore |
+| [Bakery-Shop-PoS](https://github.com/qiarhadempta/Bakery-Shop-PoS) | Point-of-sale system for a bakery |
+
+</details>
+
+<details>
+<summary>Learning</summary>
+
+| Repo | Description |
+|------|-------------|
+| [Basic-Quantum-Computing-Projects](https://github.com/qiarhadempta/Basic-Quantum-Computing-Projects) | Exploration of quantum computing concepts |
+| [Instagram-Phishing-Website](https://github.com/qiarhadempta/Instagram-Phishing-Website) | Phishing simulation for educational purposes |
+
+</details>
+
 ---
 
 ## GitHub Stats
