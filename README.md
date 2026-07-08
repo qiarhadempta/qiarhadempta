@@ -52,12 +52,12 @@ Performance analysis of NIST's post-quantum signature standards (ML-DSA vs. SLH-
 ## CryptoHack
 
 <!-- CRYPTOHACK_START -->
-![Score](https://img.shields.io/badge/Score-200pts-C9B1FF?style=flat-square)
-![Rank](https://img.shields.io/badge/Rank-%2331159-a78bfa?style=flat-square)
-![Solved](https://img.shields.io/badge/Solved-15%20challenges-7c5cbf?style=flat-square)
+![Score](https://img.shields.io/badge/Score-235pts-C9B1FF?style=flat-square)
+![Rank](https://img.shields.io/badge/Rank-%2328406-a78bfa?style=flat-square)
+![Solved](https://img.shields.io/badge/Solved-17%20challenges-7c5cbf?style=flat-square)
 ![Level](https://img.shields.io/badge/Level-6-c9d1d9?style=flat-square)
 
-> Updated: 08 Jul 2026, 13:28 UTC
+> Updated: 08 Jul 2026, 19:05 UTC
 <!-- CRYPTOHACK_END -->
 
 ---
