@@ -91,6 +91,7 @@ Performance analysis of NIST's post-quantum signature standards (ML-DSA vs. SLH-
 
 | Repo | Description |
 |------|-------------|
+| [Shor's Algorithm Simulation](https://github.com/qiarhadempta/Shors-Algorithm-Simulation) | Shor's algorithm simulation using Qiskit and IBM QPU backend |
 | [Sistem-Prioritas-Tugas](https://github.com/qiarhadempta/Sistem-Prioritas-Tugas) | Decision support system using SAW method |
 | [Bookstore-PoS](https://github.com/qiarhadempta/Bookstore-PoS) | Point-of-sale system for a bookstore |
 | [Bakery-Shop-PoS](https://github.com/qiarhadempta/Bakery-Shop-PoS) | Point-of-sale system for a bakery |
